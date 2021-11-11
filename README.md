@@ -40,7 +40,7 @@
 - Thinking in metacognition methodology: Life, Study, Trading, and Writing
 - Running a Discord server for BCIT Korean students: https://discord.gg/5x6uQvKt8M
 - Running a Discord server for BCIT CST 2022 Jan intake: https://discord.gg/DKkWUfjzCd
-
+- Running a Kakaotalk openchat for Korean crypto-currency investment since Oct.2018
 
 <!--
 **nash4comp/nash4comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
