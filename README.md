@@ -34,8 +34,9 @@
 
 - Blockchain Technology
 - Crypto-currency Trading: $BTC, $KST, $LN, $STEL and NFTs(Matrixworld, Strange Clan)
-- PC Game: The Romance of Three Kingdoms(KOEI)
-- Movies : Marvel Avengers series, Jackie Chan's movies
+- PC Games: The Romance of Three Kingdoms(KOEI), The Secret of Monkey Island(Lucas Film), Street Fighter(Capcom)
+- Movies : Marvel Avengers series, Jackie Chan's action movies
+- Comics : Slayers, Dragon Ball, GTO, Berserk, Angel Densetsu, Claymore, Liar Game, Deathnote
 - Blog (in Korean Language): https://peterdrinker.tistory.com/
 - Thinking in metacognition methodology: Life, Study, Trading, and Writing
 - Running a Discord server for BCIT Korean students: https://discord.gg/5x6uQvKt8M
