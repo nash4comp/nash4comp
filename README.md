@@ -3,32 +3,32 @@
 
 ## I am
 - an active and positive person.
-- living in Vancouver with my lovely wife, daughter, and dog.
+- living in Vancouver with my beautiful wife, lovely daughter, and cuty dog.
 - studying programming language to be a blockchain software engineer for my second life.
 
 ## Work Experience
 
 | DATE | ROLE | COMPANY | DIVISION | TEAM | TYPE |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|Jan.2012 - Oct.2019  | Marketing Manager | Samsung Electronics | System LSI (SoC) | Strategic Marketing | Full-time |
-|Jan.2007 - Dec.2011  | Product Manager | Samsung Electronics | Storage System (HDD) | Product Planning | Full-time |
-|Feb.2005 - Dec.2007  | S/W Developer | Samsung Electronics | Storage System (HDD) | Firmware | Full-time |
+|Jan.2012 - Oct.2019  | Marketing Manager | Samsung Electronics | System LSI (SoC) | Strategic Marketing | FT |
+|Jan.2007 - Dec.2011  | Product Manager | Samsung Electronics | Storage System (HDD) | Product Planning | FT |
+|Feb.2005 - Dec.2007  | S/W Developer | Samsung Electronics | Storage System (HDD) | Firmware | FT |
 
 ## Education
 
 | DATE | PROGRAM | SCHOOL | DEGREE | TYPE |
 | ------ | ------ | ------ | ------ | ------ |
-|Jan.2022 - Present  | Computer Systems Technology | British Colombia Institute of Technology | Diploma | Full-time |
-|Feb.1998 - Dec.2005  | Electronics Engineering | Korea University | Bachelor | Full-time |
+|Jan.2022 - Present  | Computer Systems Technology | British Colombia Institute of Technology | Diploma | FT |
+|Feb.1998 - Dec.2005  | Electronics Engineering | Korea University | Bachelor | FT |
 
 ## Other Careers
 
 | DATE | ROLE | ORGANIZATION | DIVISION | TEAM | TYPE |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| May.2021 - Aug.2021  | Whitepaper Writer | Blockchain Company | Planning | Headquarters | Part-time |
-| Aug.2019 - Apr.2021  | Advisor & Writer | Blockchain Company | Marketing | Headquarters | Part-time |
-| Aug.2003 - Apr.2005  | Teacher Assistant | IKE English Academy | Marketing | Headquarters | Part-time |
-| Jan.2000 - Mar.2002  | Document Dispatcher | Army |17th Infantry Division | Headquarters | Full-time |
+| May.2021 - Aug.2021  | Whitepaper Writer | Blockchain Company | Planning | Headquarters | PT |
+| Aug.2019 - Apr.2021  | Advisor & Writer | Blockchain Company | Marketing | Headquarters | PT |
+| Aug.2003 - Apr.2005  | Teacher Assistant | IKE English Academy | Marketing | Headquarters | PT |
+| Jan.2000 - Mar.2002  | Document Dispatcher | Army |17th Infantry Division | Headquarters | FT |
 
 ## Personal Interests
 
