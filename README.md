@@ -23,11 +23,11 @@
 
 ## Other Careers
 
-| DATE | ROLE | ORGANIZATION | DIVISION | TEAM | TYPE |
+| DATE | ROLE | ORGANIZATION | DIVISION | LOCATION | TYPE |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | May.2021 - Aug.2021  | Whitepaper Writer | Blockchain Company | Planning | Headquarters | PT |
 | Aug.2019 - Apr.2021  | Advisor & Writer | Blockchain Company | Marketing | Headquarters | PT |
-| Aug.2003 - Apr.2005  | Teacher Assistant | IKE English Academy | Marketing | Headquarters | PT |
+| Aug.2003 - Jan.2005  | Teacher Assistant | IKE English Academy | Marketing | Headquarters | PT |
 | Jan.2000 - Mar.2002  | Document Dispatcher | Army |17th Infantry Division | Headquarters | FT |
 
 ## Personal Interests
