@@ -38,7 +38,8 @@
 - Movies : Marvel Avengers series, Jackie Chan's movies
 - Blog (in Korean Language): https://peterdrinker.tistory.com/
 - Thinking in metacognition methodology: Life, Study, Trading, and Writing
-- Running a Discord server for Korean BCIT students: https://discord.gg/5x6uQvKt8M
+- Running a Discord server for BCIT Korean students: https://discord.gg/5x6uQvKt8M
+- Running a Discord server for BCIT CST 2022 Jan intake: https://discord.gg/DKkWUfjzCd
 
 
 <!--
