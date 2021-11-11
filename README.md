@@ -2,7 +2,7 @@
 
 
 ## I am
-- active and positive person.
+- an active and positive person.
 - living in Vancouver with my lovely wife, daughter, and dog.
 - studying programming language to be a blockchain software engineer for my second life.
 
