@@ -34,14 +34,22 @@
 
 - Blockchain Technology
 - Crypto-currency Trading: $BTC, $KST, $LN, $STEL and NFTs(Matrixworld, Strange Clan)
-- PC Games: The Romance of Three Kingdoms(KOEI), The Secret of Monkey Island(Lucas Film), Street Fighter(Capcom)
+- PC Games: Romance of the Three Kingdoms(KOEI), Uncharted Waters(KOEI), The Secret of Monkey Island(Lucas Film), Street Fighter(Capcom)
 - Movies : Marvel Avengers series, Jackie Chan's action movies
+- Books : Romance of the Three Kingdoms
 - Comics : Slayers, Dragon Ball, GTO, Berserk, Angel Densetsu, Claymore, Liar Game, Deathnote
-- Blog (in Korean Language): https://peterdrinker.tistory.com/
 - Thinking in metacognition methodology: Life, Study, Trading, and Writing
+
+## Organizing Communities
 - Running a Discord server for BCIT Korean students: https://discord.gg/5x6uQvKt8M
 - Running a Discord server for BCIT CST 2022 Jan intake: https://discord.gg/DKkWUfjzCd
 - Running a Kakaotalk openchat for Korean crypto-currency investment since Oct.2018
+
+## Contacts
+- E-mail: nash4comp@gmail.com
+- Blog (in Korean Language): https://peterdrinker.tistory.com/
+- LinkedIn: https://www.linkedin.com/in/nashcanada/
+
 
 <!--
 **nash4comp/nash4comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
