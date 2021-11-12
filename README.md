@@ -20,7 +20,7 @@
 | ------ | ------ | ------ | ------ | ------ |
 |Jan.2022 - Present  | Computer Systems Technology | British Colombia Institute of Technology | Diploma | FT |
 |Aug.2021 - Sep.2021 | Global English | VGC International College | Certificate | FT |
-|Nov.2020 - Apr.2021 | ISEP(International Student Entry Program) | British Colombia Institute of Technology | Certificate | FT |
+|Nov.2020 - Apr.2021 | International Student Entry Program | British Colombia Institute of Technology | Certificate | FT |
 |Feb.1998 - Dec.2005  | Electronics Engineering | Korea University | Bachelor | FT |
 
 ## Other Careers
