@@ -3,7 +3,7 @@
 
 ## I am
 - an active and positive person.
-- living in Vancouver with my beautiful wife, lovely daughter, and cuty dog.
+- living in Vancouver with my beautiful wife, lovely daughter, and cute dog.
 - studying programming language to be a blockchain software engineer for my second life.
 
 ## Work Experience
@@ -19,6 +19,8 @@
 | DATE | PROGRAM | SCHOOL | DEGREE | TYPE |
 | ------ | ------ | ------ | ------ | ------ |
 |Jan.2022 - Present  | Computer Systems Technology | British Colombia Institute of Technology | Diploma | FT |
+|Aug.2021 - Sep.2021 | Global English | VGC International College | Certificate | FT |
+|Nov.2020 - Apr.2021 | ISEP(International Student Entry Program) | British Colombia Institute of Technology | Certificate | FT |
 |Feb.1998 - Dec.2005  | Electronics Engineering | Korea University | Bachelor | FT |
 
 ## Other Careers
