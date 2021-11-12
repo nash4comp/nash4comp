@@ -38,7 +38,9 @@
 - Movies : Marvel Avengers series, Jackie Chan's action movies
 - Books : Romance of the Three Kingdoms
 - Comics : Slayers, Dragon Ball, GTO, Berserk, Angel Densetsu, Claymore, Liar Game, Deathnote
+- Musics : The Cranberries, The Corrs, AKMU, Psy, JP Kim, Sunhee Lee, Flower
 - Thinking in metacognition methodology: Life, Study, Trading, and Writing
+- Writing, Mind-mapping, and Planning something
 
 ## Organizing Communities
 - Running a Discord server for BCIT Korean students: https://discord.gg/5x6uQvKt8M
