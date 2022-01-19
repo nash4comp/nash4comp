@@ -35,7 +35,7 @@
 ## Personal Interests
 
 - Blockchain Technology
-- Crypto-currency Trading: $BTC, $KST, $LN, $STEL and NFTs(Matrixworld, Strange Clan)
+- Crypto-currency Trading: $BTC, $ABRA, $LN
 - PC Games: Romance of the Three Kingdoms(KOEI), Uncharted Waters(KOEI), The Secret of Monkey Island(Lucas Film), Street Fighter(Capcom)
 - Movies : Marvel Avengers series, Jackie Chan's action movies
 - Books : Romance of the Three Kingdoms
