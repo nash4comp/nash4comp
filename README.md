@@ -32,10 +32,14 @@
 | Aug.2003 - Jan.2005  | Teacher Assistant | IKE English Academy | Marketing | Headquarters | PT |
 | Jan.2000 - Mar.2002  | Document Dispatcher | Army |17th Infantry Division | Headquarters | FT |
 
+## Portfolio
+- Fudget: Jan. 2022 ~ Apr. 2022
+- SaveMe: May. 2022 
+
 ## Personal Interests
 
 - Blockchain Technology
-- Crypto-currency Trading: $BTC, $ABRA, $LN
+- Crypto-currency Trading
 - PC Games: Romance of the Three Kingdoms(KOEI), Uncharted Waters(KOEI), The Secret of Monkey Island(Lucas Film), Street Fighter(Capcom)
 - Movies : Marvel Avengers series, Jackie Chan's action movies
 - Books : Romance of the Three Kingdoms
@@ -52,7 +56,7 @@
 ## Contacts
 - E-mail: nash4comp@gmail.com
 - Blog (in Korean Language): https://peterdrinker.tistory.com/
-- LinkedIn: https://www.linkedin.com/in/nashcanada/
+- LinkedIn: https://www.linkedin.com/in/codelife/
 
 
 <!--
