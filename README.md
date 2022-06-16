@@ -55,9 +55,6 @@
 
 ## Contacts
 - E-mail: nash4comp@gmail.com
-- Blog (in Korean Language): https://peterdrinker.tistory.com/
-- LinkedIn: https://www.linkedin.com/in/codelife/
-
 
 <!--
 **nash4comp/nash4comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
